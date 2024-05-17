@@ -1,0 +1,49 @@
+body.loadBG {
+    background: #f146a4; 
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .Tindoix {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 400px;
+    margin: 20px auto;
+  }
+  
+  .logo p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .mid {
+    font-size: 100px;
+    line-height: 50px; 
+    font-family: "Didact Gothic", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #fff3a6; 
+  }
+  
+  .mid span {
+    font-size: 100px;
+    font-family: "Didact Gothic", sans-serif;
+    color: #ffffff; 
+    margin-top: -8px;
+  }
+  
+  .logo .bottom {
+    font-size: 30px;
+    font-weight: 450;
+    line-height: 45px;
+    margin-left: 5px;
+    font-family: "Spectral", serif;
+    color: #88104e; 
+  }
+  
